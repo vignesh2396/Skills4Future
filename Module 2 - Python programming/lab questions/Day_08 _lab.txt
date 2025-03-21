@@ -1,0 +1,28 @@
+1. write a program to print table of a number.
+
+2. get a string from user and convert all the upper case to lower and vice versa using for loop.
+
+3. find the sum of all even number from 1 to 100.
+
+4. write a guessing game program
+# hint - pick number randomly using random module between 1 to 100
+give use 5 chance to guess the number.
+if user guessed correctly print "you win" and terminate using break statement.
+if 5 changes over terminate by printing "you lose".
+
+5. Write a program to print the no. of occurences of a given character in a given string(without count).
+
+6. Write a program to reverse a given string and check whether it is a palindrome or not. 
+
+7. Write a program to reverse a given number and check whether it is a palindrome or not.
+
+8. find whether the given number is armstrong number or not.
+
+* write a fizzbuzz program.
+# hint - if the number is divisible to 3 print 'Fizz', if divisible by 5 means print 'Buzz'
+if divisible by both 3 and 5 means print 'FizzBuzz'.
+
+* write the rock, paper and scissors program.
+
+* random password generator program.
+

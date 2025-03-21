@@ -1,0 +1,8 @@
+write the following programs in shell scripting.
+1. Guess the number using while loop
+2. give 5 change to user to guess the number using for loop
+3. if person age is greater than 18 and have voter id --> eligible to vote. if less than 18 --> need to wait
+4. Get 3 numbers from the user and find the greater number
+5. find the sum of digits of number entered.
+6. find the reverse of the number entered.
+7. find whether the given number in prime or not.

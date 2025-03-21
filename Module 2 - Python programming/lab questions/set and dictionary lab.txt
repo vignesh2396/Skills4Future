@@ -1,0 +1,36 @@
+Set
+
+1: Add a list of elements to a set
+2: Return a new set of identical items from two sets
+3: Get Only unique items from two sets
+4: Update the first set with items that don’t exist in the second set
+5: Remove items from the set at once
+6: Return a set of elements present in Set A or B, but not both
+7: Check if two sets have any elements in common. If yes, display the common elements
+8: Update set1 by adding items from set2, except common items
+9: Remove items from set1 that are not common to both set1 and set2
+
+dictionary
+
+1. create a dictionary from the following two lists:
+keys = ['one','two','three']
+values = [1,2,3]
+
+2. create a dictionary for n students in a class with roll number as key, name and marks as values and display the names of students who have marks above 75.
+
+3. write a program to print the maximum, minimun, sum of keys as well as values of numbers dictionary as given below.
+numbers = {1:111, 2:222, 3:333, 4:444} 
+
+4. You have access to a database of student_scores in the format of a dictionary. The keys in student_scores are the names of the students and the values are their exam scores.
+
+Write a program that converts their scores to grades. By the end of your program, you should have a new dictionary called student_grades that should contain student names for keys and their grades for values. The final version of the student_grades dictionary will be checked.
+
+This is the scoring criteria:
+
+Scores 91 - 100: Grade = "Outstanding"
+
+Scores 81 - 90: Grade = "Exceeds Expectations"
+
+Scores 71 - 80: Grade = "Acceptable"
+
+Scores 70 or lower: Grade = "Fail"

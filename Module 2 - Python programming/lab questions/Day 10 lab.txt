@@ -1,0 +1,10 @@
+* Write a program to search for an element in given list of numbers and print its index value.
+
+* write a program to count the frequency of a given element in a list.
+
+* write a program to input a list and an element and remove all occurrences of the given element from the list.
+
+* Python program to interchange first and last elements in a list
+[Hint use list.insert()]
+
+* Write a program to calculate the mean of a given list of numbers.

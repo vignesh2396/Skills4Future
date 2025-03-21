@@ -1,0 +1,33 @@
+list comprehension questions
+
+print the numbers in 'range(1000)' that are even and contain the digit '9' using list comprehension.
+ 
+convert a list of strings to integers using list comprehension.
+eg: input - ['1','23','35','64'] output - [1,23,35,64]
+
+using list comprehension non vowel characters in the string to '*'
+eg: input - 'apple' output - 'a***e' 
+
+sort this list [[3,2,5],[4,3,10],[3,9,2]] in ascending order using list comprehension.
+output - [[2,3,5],[3,4,10],[2,3,9]]
+
+Functions questions
+
+Write a function that finds the second maximum of the numbers from a given list using function.
+
+Write a function that finds all the factors of a given number and returns it as a list.
+
+get a string input from user and convert it into abbrevation.
+(eg: input - World Health Organization 
+output - WHO)
+
+Write a Ceasar Cipher Encryption and Decryption program 
+#TODO-1: What if the user enters a shift that is greater than the number of letters in the alphabet?
+  #Try running the program and entering a shift number of 45.
+  #Add some code so that the program continues to work even if the user enters a shift number greater than 26. 
+  #Hint: Think about how you can use the modulus (%).
+
+#TODO-2: Can you figure out a way to ask the user if they want to restart the cipher program?
+#e.g. Type 'yes' if you want to go again. Otherwise type 'no'.
+#If they type 'yes' then ask them for the direction/text/shift again and call the caesar() function again?
+#Hint: Try creating a while loop that continues to execute the program if the user types 'yes'.
